@@ -1,6 +1,4 @@
 Nick's first line.
-Nick's second line.
-test line (addition by Nick)
-Nick's third line.
+test line. extra text on this line.
 
 test line 2
